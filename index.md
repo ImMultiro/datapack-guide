@@ -1,4 +1,7 @@
-# Welcome!
+---
+title: Welcome!
+---
+
 This guide will walk you through the basics of Minecraft data pack creation independent of your skill level.
 For more info, proceed to Chapter 1.
 
