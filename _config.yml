@@ -4,4 +4,5 @@ relative_links:
   enabled: true
   collections: true
 
+title: Datapack Guide
 theme: jekyll-theme-tactile
