@@ -8,3 +8,12 @@ of this course.
 ## About me
 My name is **Multiro**. I haven't been creating data packs for that long, but I feel like I've gotten good enough at it to teach the basics and one thing I can
 tell you about the craft is that **it really isn't that complicated!** I don't have that many published projects, simply because I have a bad habit of not finishing projects, but you can find all of them on [my Modrinth page](https://modrinth.com/user/Multiro).
+
+## What is a data pack?
+From the [Minecraft Wiki](https://minecraft.wiki/w/Data_pack):
+
+> A data pack or datapack is a collection of data used to configure a number of features of Minecraft.
+
+But what does that *mean*? Well, simply put, **a datapack is a collection of files telling Minecraft what to do.** It is different from mods, which modify
+Minecraft's code to add any feature you want, because it only adds data to features that already exist in Minecraft, such as *crafting recipes, structures,
+enchantments* etc.
