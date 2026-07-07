@@ -1,0 +1,8 @@
+- name: Welcome!
+  link: /
+- name: Chapter 1. Introduction
+  link: /chapters/01.html
+- name: Chapter 2. Your Work Environment
+  link: /chapters/02.html
+- name: Chapter 3. Your First Data Pack
+  link: /chapters/03.html
