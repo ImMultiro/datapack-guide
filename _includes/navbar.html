@@ -1,0 +1,11 @@
+<nav>
+  <ul>
+    {% for item in site.data.navigation %}
+      <li>
+        {% unless item.link == page.url %}<a href="{{ item.link }}">{% else %}<span>{% endunless %}
+          {{ item.name }}
+        {% unless item.link == page.url %}</a>{% else %}</span>{% endunless %}
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
